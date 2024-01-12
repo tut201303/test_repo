@@ -1,2 +1,4 @@
 # test_repo
 GitHubを使えるか試すためのレポジトリ
+
+WSLのUbuntuのターミナルからgit pushを行う場合、Username:tut201303とpersonal access tokenをパスワードとして用いる
